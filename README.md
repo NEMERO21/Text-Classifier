@@ -22,7 +22,7 @@ The code takes user input text, preprocesses it using the model's tokenizer, per
 2. Download the code from the repository:
 
    ```bash
-   git clone [(https://github.com/NEMERO21/Text-Classifier.git)https://github.com/NEMERO21/Text-Classifier.git]
+   git clone [https://github.com/NEMERO21/Text-Classifier.git)https://github.com/NEMERO21/Text-Classifier.git]
    cd Text-Classifier
 
 3. Set up your Hugging Face API token:
