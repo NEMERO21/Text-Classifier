@@ -42,6 +42,9 @@ The code takes user input text, preprocesses it using the model's tokenizer, per
    
 2. The script will preprocess the text, pass it through the model, and output the predicted class along with class probabilities.
 
+## Output
+![image](https://github.com/NEMERO21/Text-Classifier/assets/97607950/5dab44a8-2800-44b2-a60c-2de418bfb2bf)
+
 ## Model Information
  - Model Name: badalsahani/text-classification-multi
  - Classes:
