@@ -64,7 +64,7 @@ The code takes user input text, preprocesses it using the model's tokenizer, per
   
 ## License 
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License][https://github.com/NEMERO21/Text-Classifier/blob/main/LICENSE].
 
 ## Acknowledgements
 - The Hugging Face community for providing pre-trained models and the Transformers library.
